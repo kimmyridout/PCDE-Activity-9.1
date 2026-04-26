@@ -8,5 +8,7 @@
 
 <br>
 
-## Activity 9.1 HTML
-👉 <a href="./MIT_portfolio.html">Open MIT Portfolio HTML</a>
+## Activity 9.1 Webpage
+👉 <a href="https://kimmyridout.github.io/PCDE-Activity-9.1/MIT_portfolio.html">
+  Open Rendered HTML Page
+</a>
